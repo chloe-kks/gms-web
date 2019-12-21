@@ -1,0 +1,32 @@
+.navbaritem {
+	display: inline-block;
+	margin-right: 20px;
+	padding-top: 60px;
+
+}
+
+.hre {
+	color: black;
+	padding: 30px 10px 10px 10px;
+	font-size: calc(5px + 0.8vw);
+}
+
+.menu {
+	color: #5294FF;
+	border-bottom: 5px solid #5294FF;
+}
+
+.naasdfvbar {
+	height: 100px;
+	width: 100%;
+	position: fixed;
+	zIndex: 9999;
+}
+
+.navbar-inner-style{
+	max-width: 1200px;
+	width: 100%;
+	margin: auto;
+	
+
+}

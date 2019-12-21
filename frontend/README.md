@@ -1,10 +1,17 @@
+# CS554
+## Gym Management System Web
 
-## Before Running
-Modify "proxy" in package.json
+### Environments Specification
+1. Ubuntu 16.04
+2. NodeJs
 
-
-
-### Start
+### Before start
+```
 npm install
+```
 
-npm start
+### Step
+```
+1. Modify "proxy" in package.json.
+2. npm start
+```

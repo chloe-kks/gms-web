@@ -1,8 +1,10 @@
 
 ## Before Running
-modify "proxy" package.json.
+Modify "proxy" in package.json
+
 
 
 ### Start
 npm install
+
 npm start

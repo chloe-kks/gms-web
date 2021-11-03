@@ -29,7 +29,7 @@
     "redux-pender": "^2.0.12",
     "styled-components": "^4.4.1",
     "typekit": "^0.1.1",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "NODE_PATH=src react-scripts start",
